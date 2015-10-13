@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/ulysses/development/ElementTransitions/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/ulysses/development/ElementTransitions/app/build/intermediates/pre-dexed/debug/classes-6efc281e88d3e5fdbcf48d2eacaa6b290ccb7456.jar" />
+    </item>
+    <item
+        jar="/home/ulysses/development/ElementTransitions/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/ulysses/development/ElementTransitions/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-d00b00e2bba048c44440162baf992fb8e3d394fc.jar" />
+    </item>
+    <item
+        jar="/home/ulysses/development/ElementTransitions/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/ulysses/development/ElementTransitions/app/build/intermediates/pre-dexed/debug/classes-d0d5257f8f1b45f90b0e8db80ba6ce7d6ea69992.jar" />
+    </item>
+    <item
+        jar="/home/ulysses/AndroidSDK/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/ulysses/development/ElementTransitions/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-a64d8dd7713307dfd37f611d82aea8f02878b863.jar" />
+    </item>
+    <item
+        jar="/home/ulysses/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/ulysses/development/ElementTransitions/app/build/intermediates/pre-dexed/debug/picasso-2.5.2-9548efa407e83535aeaf6dfc7730c20ffa335bfa.jar" />
+    </item>
+
+</items>
